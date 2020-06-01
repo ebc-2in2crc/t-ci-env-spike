@@ -1,0 +1,9 @@
+language: go
+go:
+- 1.x
+script:
+- go run main.go
+env:
+  global:
+  - HOGE=ほげ
+  - FUGA=ふが

@@ -5,5 +5,5 @@ script:
 - go run main.go
 env:
   global:
-  - HOGE=ほげ
-  - FUGA=ふが
+  - HOGE=hogehoge
+  - FUGA=fugafuga
